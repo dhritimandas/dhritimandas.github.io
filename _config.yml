@@ -6,6 +6,41 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
+  name: Dhritiman Das
+  avatar: bio-photo.jpg
+  bio: "This is a sample website"
+  email: blahblah@lol.com
+  # Do not include the @ symbol in your Twitter username
+  twitter: spamaccount
+  linkedin: #username
+  github: dhritimandas
+  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  researchgate: #username
+  mendeley: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    scholar: #id
+  facebook: #username
+  instagram: #username
+  bing-verify:
+  stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
+  xing: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+  disqus-shortname:
+  
+owner:
   name: Ted Laderas
   avatar: bio-photo.jpg
   bio: "This is a sample Jekyll academic website."
