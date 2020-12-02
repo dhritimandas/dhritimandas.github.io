@@ -1,24 +1,24 @@
 ---
 layout: resume
 ---
-## Currently
+## Current Position
 
-Current Position Description
+Developer at you-know-where working for you-know-who.
 
 ## Education
 
 `1990 - 1994`
-__University Name__
-Degree Awarded
+__Harvard University__
+B.A.(ignominy)
 
 `1995 - 1997`
 __University Name__
-Degree Awarded 
+PhD. (pseudo-science) 
 
 ## Awards
 
 `2012`
-Name of Award, Organization 
+Gold Medal, (Ig)Nobel Prize
 
 ## Publications
 
