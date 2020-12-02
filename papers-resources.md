@@ -77,7 +77,7 @@ A toolkit to enable fast prototyping with a low entry threshold and ensure repro
 
 -[Timnit Gebru - TedTalk](https://www.youtube.com/watch?v=PWCtoVt1CJM)
 
-Timnit Gebru, Co-Founder of Black in AI, talks about how inherent biases in current artificial intelligence methods and how it affects commnunities.
+Timnit Gebru, Co-Founder of Black in AI, talks about inherent biases in current artificial intelligence methods and how it affects communities.
 
 
 
