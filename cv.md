@@ -1,6 +1,9 @@
 ---
 layout: resume
 ---
+
+![Jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
+
 ## Current Position
 
 Developer at you-know-where working for you-know-who.
