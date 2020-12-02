@@ -16,7 +16,7 @@ A page to curate recent papers, tutorials, code releases and news articles.
 
 * * *
 
-### Papers
+## Papers
 - **Spherical U-Net on Cortical Surfaces: Methods and Applications** (2019), Zhao et al. [[pdf]](http://arxiv.org/pdf/1503.02531) [[code]](https://github.com/zhaofenqiang/Spherical_U-Net)
 
 This paper addresses the drawbacks of applying CNNs to spherical topologies such as those seen in medical imaging structures by proposing a novel convolution filter analogous to the standard convolution on the image grid. A Spherical U-Net architecture is developed which replaces all operations in the standard U-Net with their spherical operation counterparts.
@@ -31,65 +31,65 @@ In this paper, a Bayesian deep neural network (DNN) is proposed for predicting F
 
 
 
-### Projects
+## Projects
 
--[**Pydra**](https://github.com/nipype/pydra)
+-[Pydra](https://github.com/nipype/pydra)
 
 A simple dataflow engine with scalable semantics.
 
+-[Nobrainer](https://github.com/neuronets/nobrainer)
+A deep learning framework for 3D image processing of brain imaging data.
 
 
-
-### Datasets
+## Datasets
   
--[**OpenNeuro**](https://openneuro.org)
+-[OpenNeuro](https://openneuro.org)
 
 A free and open platform for sharing MRI, MEG, EEG, iEEG, and ECoG data using BIDS specification.
 
 
-### Coding / Software
+## Coding / Software
 
--**TensorFlow**(https://www.tensorflow.org)
+-[TensorFlow](https://www.tensorflow.org)
 End-to-end open source platform for machine learning developed by Google.
 
--**DLTK**(https://github.com/DLTK/DLTK)
+-[DLTK](https://github.com/DLTK/DLTK)
 A toolkit to enable fast prototyping with a low entry threshold and ensure reproducibility in image analysis applications, with a particular focus on medical imaging.
 
--**Nobrainer**(https://github.com/neuronets/nobrainer)
-A deep learning framework for 3D image processing of brain imaging data.
 
 
-### Tutorials
 
--**[Self Supervised Representation Learning](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)
+## Tutorials
 
--**[Deep Learning - Berkeley]**(https://berkeley-deep-learning.github.io/cs294-131-s17/)
+-[Self Supervised Representation Learning](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)
 
--**[Tensor Flow tutorials]**(https://github.com/chiphuyen/stanford-tensorflow-tutorials/)
+-[Deep Learning - Berkeley](https://berkeley-deep-learning.github.io/cs294-131-s17/)
 
--**[HVass Labs-tensor flow tutorials]**(https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+-[Tensor Flow tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials/)
+
+-[HVass Labs-tensor flow tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 
 
-### Talks
+## Talks
 
--[**Timnit Gebru - TedTalk**](https://www.youtube.com/watch?v=PWCtoVt1CJM)
+-[Timnit Gebru - TedTalk](https://www.youtube.com/watch?v=PWCtoVt1CJM)
 Timnit Gebru, Co-Founder of Black in AI, talks about how inherent biases in current artificial intelligence methods and how it affects commnunities.
 
 
 
-### Review
+## Review
 
--**[Underspecification Presents Challenges for Credibility in Modern Machine Learning]**(https://arxiv.org/pdf/2011.03395.pdf)
+-[Underspecification Presents Challenges for Credibility in Modern Machine Learning](https://arxiv.org/pdf/2011.03395.pdf)
 
 An ML pipeline is underspecified when it can return many predictors with equivalently strong held-out performance in the training domain. During deployment, this can lead to issues such as instability and poor model behavior in practice. This review paper shows the need to explicitly account for underspecification in modeling pipelines that are intended for real-world deployment in any domain.
 
-### News / Blogs
+## News / Blogs
 
--**[Artificial Intelligence Neural Network Learns When It Should Not Be Trusted]**(https://scitechdaily.com/artificial-intelligence-neural-network-learns-when-it-should-not-be-trusted/)
+-[Artificial Intelligence Neural Network Learns When It Should Not Be Trusted](https://scitechdaily.com/artificial-intelligence-neural-network-learns-when-it-should-not-be-trusted/)
 
 This article discusses the potential benefits on real-world safe usage of AI caused by improvements in uncertainty estimation in AI models.
 
--**[AlphaFold: using AI for scientific discovery]**(https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery)
+-[AlphaFold: using AI for scientific discovery](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery)
 
 AlphaFold, an AI model developed at DeepMind, used large genomic datasets to predict the 3D structure of a protein and has achieved unprecedented levels of accuracy - marking significant progress on one of the grand challenges in biology.
 
