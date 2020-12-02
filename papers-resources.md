@@ -38,6 +38,7 @@ In this paper, a Bayesian deep neural network (DNN) is proposed for predicting F
 A simple dataflow engine with scalable semantics.
 
 -[Nobrainer](https://github.com/neuronets/nobrainer)
+
 A deep learning framework for 3D image processing of brain imaging data.
 
 
@@ -51,9 +52,11 @@ A free and open platform for sharing MRI, MEG, EEG, iEEG, and ECoG data using BI
 ## Coding / Software
 
 -[TensorFlow](https://www.tensorflow.org)
+
 End-to-end open source platform for machine learning developed by Google.
 
 -[DLTK](https://github.com/DLTK/DLTK)
+
 A toolkit to enable fast prototyping with a low entry threshold and ensure reproducibility in image analysis applications, with a particular focus on medical imaging.
 
 
@@ -73,6 +76,7 @@ A toolkit to enable fast prototyping with a low entry threshold and ensure repro
 ## Talks
 
 -[Timnit Gebru - TedTalk](https://www.youtube.com/watch?v=PWCtoVt1CJM)
+
 Timnit Gebru, Co-Founder of Black in AI, talks about how inherent biases in current artificial intelligence methods and how it affects commnunities.
 
 
